@@ -4,7 +4,7 @@ toioDoで使う場合，以下のURLでアクセスする
 
 手順
 1. エクセルブック（マップ情報3.xlsx）をダウンロードして，「マップ設定シート」でマップを作成
-2. エクセルブックのまっぷマップ情報2シートの内容をCSVファイル（UTF-8)で保存
+2. エクセルブックの「マップ情報2」シートの内容をCSVファイル（UTF-8)で保存
 1. 次のURLにアクセスする
 
    https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3

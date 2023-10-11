@@ -7,7 +7,8 @@ toioDoで使う場合，以下のURLでアクセスする
 2. エクセルブックの「マップ情報2」シートの内容をCSVファイル（UTF-8)で保存
 1. 次のURLにアクセスする
 
-   [迷路プログラミングの環境](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3 target="_balnk")
+   [迷路プログラミングの環境](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3)
+   <a hrep="https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3" target="_balnk">ここから</a>
 1. ステージ上の「マップデータ読み込み」ボタンを押す
 2. ステージ左側に表示されるリストからデータの読込（右ボタン）を選択して，CSVファイルの1列目のデータを読み込む
 3. ステージ右側に表示されるリストからデータの読込（右ボタン）を選択して，CSVファイルの2列目のデータを読み込む

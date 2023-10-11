@@ -9,7 +9,7 @@ toioDoで使う場合，以下のURLでアクセスする
 
    [迷路プログラミングの環境](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3)
    
-   <p><a href="https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3" target="_blank" rel="noopener noreferrer">ここから</a></p>
+   <p><a href="https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3" target="_blank">ここから</a></p>
    
 1. ステージ上の「マップデータ読み込み」ボタンを押す
 2. ステージ左側に表示されるリストからデータの読込（右ボタン）を選択して，CSVファイルの1列目のデータを読み込む

@@ -1,4 +1,4 @@
-# 初級編
+# 初級編【逐次処理と繰り返しの基礎】
 
 ## ステップ1
 [まっすぐ進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1.sb3)

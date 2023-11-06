@@ -8,7 +8,11 @@
 
 ![eqmark](https://github.com/oomori-kun/toiodo_maz/assets/17058514/1c0fc6de-b729-4d49-8b4c-67b9a739f4b3)
 
-をクリックしてコード作成エリアを表示してください。各ステップで使えるブロックも同時に表示されています。
+をクリックしてコード作成エリアを表示してください。
+
+<img width="626" alt="スクリーンショット 2023-11-06 20 01 40" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c">
+
+各ステップで使えるブロックも同時に表示されています。
 
 
 ## ステップ1

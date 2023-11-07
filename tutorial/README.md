@@ -13,7 +13,6 @@
    <img width="626" alt="スクリーンショット 2023-11-06 20 01 40" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c">
 
 
-
 【注意」「スタート位置....」のブロックは、マップのスタート位置まで移動し、指定された向き（上、下、右、左）に向きます。
 
 
@@ -29,4 +28,22 @@
 
 ## ステップ4
 [左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t4.sb3)
+
+## ステップ5
+[左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t5.sb3)
+
+## ステップ6
+[左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t6.sb3)
+
+## ステップ7
+[左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t7.sb3)
+
+## ステップ8
+[左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t8.sb3)
+
+## ステップ9
+[左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t9.sb3)
+
+## ステップ10
+[左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t10.sb3)
 

@@ -19,35 +19,35 @@
   * [Windows] CTRキーを押しながらリンクをクリックする
   * [Mac]　Commandキーを押しながらリンクをクリックする
 
-1. ステップ1  
+1. __ステップ1__  
 [まっすぐ進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1.sb3)
 
-1. ステップ2  
+1. __ステップ2__  
 [もう少しまっすぐ進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2.sb3)
 
-1. ステップ3  
+1. __ステップ3__  
 [右に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t3.sb3)
 
-1. ステップ4  
+1. __ステップ4__  
 [左に曲がって進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t4.sb3)
 
-1. ステップ5  
+1. __ステップ5__  
 [繰り返しを使って進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t5.sb3)
 
-1. ステップ6  
+1. __ステップ6__  
 [繰り返しを使ってコの字に進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t6.sb3)
 
-1. ステップ7  
+1. __ステップ7__  
 [四角形の4辺を巡って進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t7.sb3)
 
-1. ステップ8  
+1. __ステップ8__  
 ここは【数字on/off】ボタンを押して数字も表示させよう  
 [数字の順番に進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t8.sb3)
 
-1. ステップ9  
+1. __ステップ9__  
 [スタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t9.sb3)
 
-1. ステップ10  
+1. __ステップ10__  
 ここは【お宝on/off】ボタンを押してお宝も表示させよう  
 [お宝をすべて拾うようにスタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t10.sb3)
 

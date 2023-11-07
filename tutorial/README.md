@@ -54,6 +54,6 @@
 
 1. __自由課題__  
    マップを自分で作成してプログラムを作ってみよう  
-   [自由課題](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz.sb3)  
+   [自由課題](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/toiodo_maz_t11.sb3)  
    手順は [ここ](https://github.com/oomori-kun/toiodo_maz/tree/main)　を参照してください。
    

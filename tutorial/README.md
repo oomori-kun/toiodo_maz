@@ -50,5 +50,7 @@
 [スタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t9.sb3)
 
 ### ステップ10
+ここは【お宝on/off】ボタンを押してお宝も表示させよう
+
 [お宝をすべて拾うようにスタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t10.sb3)
 

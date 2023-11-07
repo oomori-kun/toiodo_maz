@@ -1,16 +1,18 @@
 # 初級編【逐次処理と繰り返しの基礎】
 
-以下の各ステップを読み込んだあと、
+1 以下の各ステップを読み込んだあと、
 
 ![map](https://github.com/oomori-kun/toiodo_maz/assets/17058514/0cb74e6e-7e8e-49f2-bad7-1bf90b0a0b80)
 
-を選択してステージにマップを描画してください。その後、
+を選択してステージにマップを描画してください。
+
+2 その後、
 
 ![eqmark](https://github.com/oomori-kun/toiodo_maz/assets/17058514/1c0fc6de-b729-4d49-8b4c-67b9a739f4b3)
 
 をクリックしてコード作成エリアを表示してください。
 
-<img width="626" alt="スクリーンショット 2023-11-06 20 01 40" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c">
+3 <img width="626" alt="スクリーンショット 2023-11-06 20 01 40" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c">
 
 上の図のように左側に各ステップで使えるブロックが表示されます。コードは右側の「スタート位置....」のブロックの続きに作成してください。
 

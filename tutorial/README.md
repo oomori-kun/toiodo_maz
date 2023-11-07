@@ -13,7 +13,7 @@
 
 
 
-
+---
 ## ステージ1 【逐次処理と繰り返しの基礎】
 
 * 以下のリンクを開く場合は次のようにいてください。
@@ -52,3 +52,5 @@
 ここは【お宝on/off】ボタンを押してお宝も表示させよう  
 [お宝をすべて拾うようにスタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t10.sb3)
 
+1. __自由課題__  
+   マップを自分で作成してプログラムを作ってみよう

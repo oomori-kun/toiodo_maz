@@ -46,14 +46,17 @@
 [数字の順番に進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t8.sb3)
 
 1. __ステップ9__  
+ブロックが，足りないときは，画面右側のカテゴリ「ブロック定義」「制御」「変数」などから必要なブロックを使ってください　　
 [スタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t9.sb3)
 
 1. __ステップ10__  
-ここは【お宝on/off】ボタンを押してお宝も表示させよう  
+ここは【お宝on/off】ボタンを押してお宝も表示させよう　　
+ブロックが，足りないときは，画面右側のカテゴリ「ブロック定義」「制御」「変数」などから必要なブロックを使ってください　　
 [お宝をすべて拾うようにスタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t10.sb3)
 
 1. __自由課題__  
-マップを自分で作成してプログラムを作ってみよう  
+マップを自分で作成してプログラムを作ってみよう　　
+ブロックが，足りないときは，画面右側のカテゴリ「ブロック定義」「制御」「変数」などから必要なブロックを使ってください　　
 [自由課題](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t11.sb3)  
 手順は [ここ](https://github.com/oomori-kun/toiodo_maz/tree/main)　を参照してください。
    

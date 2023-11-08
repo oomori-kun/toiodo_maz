@@ -44,14 +44,20 @@
 [四角形の4辺を巡って進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t7.sb3)
 
 1. __ステップ8__  
+[間違いを探して修正しよう　その1](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1-D1.sb3)
+
+1. __ステップ9__  
+[間違いを探して修正しよう　その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1-D2.sb3)
+
+1. __ステップ10__  
 ここは【数字on/off】ボタンを押して数字も表示させよう  
 [数字の順番に進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t8.sb3)
 
-1. __ステップ9__  
+1. __ステップ11__  
 ブロックが，足りないときは，画面右側のカテゴリ「ブロック定義」「制御」「変数」などから必要なブロックを使ってください  
 [スタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t9.sb3)
 
-1. __ステップ10__  
+1. __ステップ12__  
 ここは【お宝on/off】ボタンを押してお宝も表示させよう  
 ブロックが，足りないときは，画面右側のカテゴリ「ブロック定義」「制御」「変数」などから必要なブロックを使ってください  
 [お宝をすべて拾うようにスタートからゴールまで進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t10.sb3)

@@ -62,3 +62,12 @@
 [自由課題](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t11.sb3)  
 手順は [ここ](https://github.com/oomori-kun/toiodo_maz/tree/main)　を参照してください。
    
+---
+## ステージ2 【条件分岐の基礎】
+
+* 以下のリンクを開く場合は次のようにいてください。
+  * [Windows] CTRキーを押しながらリンクをクリックする
+  * [Mac]　Commandキーを押しながらリンクをクリックする
+
+1. __ステップ1__  
+[+ブロックをよける](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2-1.sb3)

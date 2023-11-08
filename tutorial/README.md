@@ -85,3 +85,6 @@
 
 1. __ステップ3__  
 [繰り返しを使ってステップ2の内容を簡略化してみよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2-3.sb3)
+
+1. __ステップ4（チャレンジ）__  
+[繰り返しを使ってステップ2の内容を一般化してみよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2-4.sb3)

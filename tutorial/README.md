@@ -70,4 +70,7 @@
   * [Mac]　Commandキーを押しながらリンクをクリックする
 
 1. __ステップ1__  
-[+ブロックをよける](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2-1.sb3)
+[目の前がブロックならば右側によける](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2-1.sb3)
+
+1. __ステップ2__  
+[目の前がブロックならば右側によける その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t2-2.sb3)

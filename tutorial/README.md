@@ -44,10 +44,10 @@
 [四角形の4辺を巡って進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t7.sb3)
 
 1. __ステップ8__  
-[間違いを探して修正しよう　その1](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1-D1.sb3)
+[間違いを探して修正しよう　その1](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1_D1.sb3)
 
 1. __ステップ9__  
-[間違いを探して修正しよう　その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1-D2.sb3)
+[間違いを探して修正しよう　その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1_D2.sb3)
 
 1. __ステップ10__  
 ここは【数字on/off】ボタンを押して数字も表示させよう  

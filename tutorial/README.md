@@ -44,9 +44,11 @@
 [四角形の4辺を巡って進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t7.sb3)
 
 1. __ステップ8__  
+すでに作成されたプログラムの間違いを探して修正しよう（デバッグ）  
 [間違いを探して修正しよう　その1](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1_D1.sb3)
 
 1. __ステップ9__  
+すでに作成されたプログラムの間違いを探して修正しよう（デバッグ）  
 [間違いを探して修正しよう　その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t1_D2.sb3)
 
 1. __ステップ10__  

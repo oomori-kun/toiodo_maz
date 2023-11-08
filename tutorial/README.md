@@ -68,7 +68,7 @@
 マップを自分で作成してプログラムを作ってみよう  
 ブロックが，足りないときは，画面右側のカテゴリ「ブロック定義」「制御」「変数」などから必要なブロックを使ってください　  
 [自由課題](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial/toiodo_maz_t11.sb3)  
-* マップ作成手順は [ここ](https://github.com/oomori-kun/toiodo_maz/tree/main)　を参照してください。
+   * マップ作成手順は [ここ](https://github.com/oomori-kun/toiodo_maz/tree/main)　を参照してください。
    
 ---
 ## ステージ2 【条件分岐の基礎】

@@ -39,7 +39,7 @@
 		[L字に進む](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_3.sb3)
 
 	1. __コの字の経路に沿って進もう__  
-		前に一マス進む命令数個と右に回ると左に回る命令を各2つ
+	  	[コの字に進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_4.sb3)
 
 	1. __四角形に沿って進もう__  
 		前に一マス進む命令数個と右に回ると左に回る命令を各3つ

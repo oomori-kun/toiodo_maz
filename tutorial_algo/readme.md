@@ -30,7 +30,7 @@
 
 1. __逐次，繰り返し，条件分岐の基本__
 	1. __一つ前に進もう__  
- 		前に一マス進む命令一つだけ
+ 		[前に一マス進む命令一つだけ](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_1.sb3)
 
 	1. __3つ前に進もう__  
  		前に一マス進む命令3つだけ

@@ -19,6 +19,9 @@
    * 【注意】「スタート位置....」のブロックが実行されると、toioはマップのスタート位置まで移動し、指定された向き（上、下、右、左）に向きます。  
    <img width="500"  alt="コードエリア" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c" >
 
+---
+## 基本的な考え方
+![image](https://github.com/oomori-kun/toiodo_maz/assets/17058514/e3f5c524-9a83-4c56-8311-929cfacee90a)
 
 
 ---

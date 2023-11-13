@@ -47,7 +47,7 @@
 	  	[コの字に進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_4.sb3)
 
 	1. __四角形に沿って進もう__  
-		前に一マス進む命令数個と右に回ると左に回る命令を各3つ
+		[時計回りに四角形に沿って時計回りに回る（最後はスタート位置に戻ってくる）](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_5.sb3)
 
 	1. __間違い探し：正しく経路に沿って進むよう修正しよう__  
 		__【デバッグ】__　間違いは2カ所

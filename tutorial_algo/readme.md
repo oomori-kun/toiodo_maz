@@ -50,7 +50,7 @@
 		[時計回りに四角形に沿って時計回りに回る（最後はスタート位置に戻ってくる）](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_5.sb3)
 
 	1. __間違い探し：正しく経路に沿って進むよう修正しよう__  
-		__【デバッグ】__　間違いは2カ所
+		__【デバッグ】__　[プログラムに間違いは2カ所ある。見つけて修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_6.sb3)
 
 	1. __同じ動作をまとめて見よう　〜まっすぐ進もう__  
  		1_ⅱを繰り返しを使って簡略化

@@ -89,7 +89,7 @@
 		* 数字が1の場合は右に回転
 
 	1. __間違い探し：正しく経路に沿って進むよう修正しよう　その3__  
- 		__【デバッグ】__
+ 		__【デバッグ】__[経路をたどってゴールしよう　※間違いは1カ所](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_16.sb3)
 
 	1. __ブロックを避けてゴールを目指せ__
    

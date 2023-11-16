@@ -98,7 +98,8 @@
 	   	[数字を順番にたどってゴールを目指せ](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_18.sb3)
 
 	1. __これはどんな動きをするかな？__  
- 		__【コードを読み解く】__
+ 		__【コードを読み解く】__[どのｙぷな動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_19.sb3)  
+		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？
 
 
 1. __逐次処理を極めよ！__	

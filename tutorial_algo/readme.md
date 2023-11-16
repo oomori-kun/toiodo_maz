@@ -62,7 +62,7 @@
  		[1_ⅴを繰り返しを使って簡略化　※繰り返しの入れ子は使わない](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_9.sb3)
     
 	1. __間違い探し：正しく経路に沿って進むよう修正しよう　その2__  
- 		__【デバッグ】__　間違いは1カ所
+ 		__【デバッグ】__　[間違いは1カ所](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_10.sb3)
 
 	1. __道筋に，お宝があったら取得しよう__  
  		直線の経路上に1カ所あるお宝を取得したら，「LED」を光らす

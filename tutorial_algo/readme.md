@@ -76,7 +76,10 @@
  		[経路上にあるお宝の数を数えよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_13.sb3)  
 		toioをスタート位置から動かしてお宝の上を通れば変数「お宝の数」を1づつ増やし，最後に何個としゃべる
 
-	1. __経路上に隠された数字はいくつ？__
+	1. __経路上に隠された数字はいくつ？__  
+ 		[経路上にある数字をしゃべろう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_14.sb3)  
+		toioをスタート位置から動かして数字の上を通れば数字をしゃべり，数字がなければ.....う... とうなろう。
+		数字は「数字ON/OFF」を押して消しておくと宝探しゲームになる
  
 	1. __真下の数字が1だったら右へ，0だったら左へ__
 

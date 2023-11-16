@@ -69,7 +69,7 @@
 		マット上にtoioを置いてプログラムをスタートしよう。お宝の上におければLEDが青くひかり，そうでなければ赤く光る
 
 	1. __経路上にお宝があったらLEDを光らせよう__  
- 		[マップにあるお宝を見つけたら，「LED」を光らす](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_12.sb3)  
+ 		[経路上にあるお宝を見つけたら，「LED」を光らす](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_12.sb3)  
 		toioをスタート位置から動かしてお宝の上を通ればLEDが光る
 
 	1. __お宝が何個あったか数えよう__

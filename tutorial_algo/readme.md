@@ -68,6 +68,10 @@
  		[マップにあるお宝を見つけたら，「LED」を光らす](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_11.sb3)  
 		マット上にtoioを置いてプログラムをスタートしよう。お宝の上におければLEDが青くひかり，そうでなければ赤く光る
 
+	1. __お宝があったらLEDを怒らせよう__  
+ 		[マップにあるお宝を見つけたら，「LED」を光らす](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_12.sb3)  
+		マット上にtoioを置いてプログラムをスタートしよう。お宝の上におければLEDが青くひかり，そうでなければ赤く光る
+
 	1. __お宝が何個あったか数えよう__
 
 	1. __経路上に隠された数字はいくつ？__

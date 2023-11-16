@@ -53,13 +53,13 @@
 		__【デバッグ】__　[プログラムに間違いは2カ所ある。見つけて修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_6.sb3)
 
 	1. __同じ動作をまとめて見よう　〜まっすぐ進もう__  
- 		1_ⅱを繰り返しを使って簡略化
+ 		[1_ⅱを繰り返しを使って簡略化](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_7.sb3)
     
 	1. __同じ動作をまとめて見よう　〜L字に進もう__  
-		1_ⅲを繰り返しを使って簡略化　※繰り返しの入れ子は使わない
+		[1_ⅲを繰り返しを使って簡略化]　※繰り返しの入れ子は使わない(https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_8.sb3)
 
 	1. __同じ動作をまとめて見よう　〜四角形にそって進もう__  
- 		1_ⅴを繰り返しを使って簡略化　※繰り返しの入れ子は使わない
+ 		[1_ⅴを繰り返しを使って簡略化　※繰り返しの入れ子は使わない](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_9.sb3)
     
 	1. __間違い探し：正しく経路に沿って進むよう修正しよう　その2__  
  		__【デバッグ】__　間違いは1カ所

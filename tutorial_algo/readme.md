@@ -94,8 +94,9 @@
 	1. __ブロックを避けてゴールを目指せ__  
 		[ブロックを避けてゴールを目指せ](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_17.sb3)
    
-	1. __数字を順番にたどろう！__
-   
+	1. __数字を順番にたどろう！__  
+	   	[数字を順番にたどってゴールを目指せ](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_18.sb3)
+
 	1. __これはどんな動きをするかな？__  
  		__【コードを読み解く】__
 

@@ -73,6 +73,8 @@
 		toioをスタート位置から動かしてお宝の上を通ればLEDが光る
 
 	1. __お宝が何個あったか数えよう__
+ 		[経路上にあるお宝の数を数えよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_13.sb3)  
+		toioをスタート位置から動かしてお宝の上を通れば変数「お宝の数」を1づつ増やし，最後に何個としゃべる
 
 	1. __経路上に隠された数字はいくつ？__
  

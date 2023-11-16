@@ -56,7 +56,7 @@
  		[1_ⅱを繰り返しを使って簡略化](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_7.sb3)
     
 	1. __同じ動作をまとめて見よう　〜L字に進もう__  
-		[1_ⅲを繰り返しを使って簡略化]　※繰り返しの入れ子は使わない(https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_8.sb3)
+		[1_ⅲを繰り返しを使って簡略化※繰り返しの入れ子は使わない](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_8.sb3)
 
 	1. __同じ動作をまとめて見よう　〜四角形にそって進もう__  
  		[1_ⅴを繰り返しを使って簡略化　※繰り返しの入れ子は使わない](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_9.sb3)

@@ -114,23 +114,23 @@
    	__「複製」__ は命令ブロックの上でマウスの右ボタンを押してください。メニューが表示され、その中に「複製」があります。
    		<img width="500"  alt="コードエリア" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c" >  
   
-	1. ひたすらまっすぐ進め  
+	1. __ひたすらまっすぐ進め__  
 		 [ひたすらまっすぐゴールまで進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_1.sb3)
 
-	1. 間違い探し：ひたすらまっすぐ進めるようにしよう  
+	1. __間違い探し：ひたすらまっすぐ進めるようにしよう__  
  		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_2.sb3)  
 
-	1. 迷路をゴールしよう  
+	1. __迷路をゴールしよう__  
     		[迷路をゴールしよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_3.sb3)  
 
-	1. 8の字を描くように進もう  
+	1. __8の字を描くように進もう__  
     		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_4.sb3)  
 		スタートから初めて、8の字を描いてスタートに戻ってこよう。  
 
-	1. 間違い探し：8の字を描くように進もように修正しよう  
+	1. __間違い探し：8の字を描くように進もように修正しよう__  
  		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_5.sb3)  
 
-	1. お宝の上を全て通ってゴールに行こう  
+	1. __お宝の上を全て通ってゴールに行こう__  
     		[お宝の上を全て通って進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_6.sb3)  
 		スタートから初めて、すべてのお宝の上を通ってからゴールに行こう  
 

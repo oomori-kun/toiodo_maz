@@ -125,7 +125,10 @@
 
 	1. 8の字を描くように進もう  
     		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_4.sb3)  
-		スタートから初めて、8の字を描いてスタートに戻ってこよう。
+		スタートから初めて、8の字を描いてスタートに戻ってこよう。  
+
+	1. 間違い探し：8の字を描くように進もように修正しよう  
+ 		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_5.sb3)  
 
 	1.  
 	1.  		

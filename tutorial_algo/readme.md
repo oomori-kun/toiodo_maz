@@ -120,6 +120,9 @@
 	1. 間違い探し：ひたすらまっすぐ進めるようにしよう  
  		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_2.sb3)  
 
+	1. 迷路をゴールしよう  
+    		[迷路をゴールしよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_3.sb3)  
+
 	1.  
 	1.  		
 	1.  		

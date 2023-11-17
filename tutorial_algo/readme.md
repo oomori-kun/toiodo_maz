@@ -130,6 +130,10 @@
 	1. 間違い探し：8の字を描くように進もように修正しよう  
  		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_5.sb3)  
 
+	1. お宝の上を全て通ってゴールに行こう  
+    		[お宝の上を全て通って進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_6.sb3)  
+		スタートから初めて、すべてのお宝の上を通ってからゴールに行こう  
+
 	1.  
 	1.  		
 	1.  		

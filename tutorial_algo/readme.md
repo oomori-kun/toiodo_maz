@@ -138,7 +138,7 @@
     		[お宝の上を全て通って進もう2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_7.sb3)  
 		スタートから初めて、すべてのお宝の上を通ってからゴールに行こう  
 
-	1.  
+	1.   
 	1.  		
 	1.  		
 	1.  		

@@ -124,7 +124,7 @@
     		[迷路をゴールしよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_3.sb3)  
 
 	1. 8の字を描くように進もう  
-    		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_3.sb3)  
+    		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_4.sb3)  
 		スタートから初めて、8の字を描いてスタートに戻ってこよう。
 
 	1.  

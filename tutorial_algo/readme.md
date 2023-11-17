@@ -101,6 +101,10 @@
  		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_19.sb3)  
 		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？
 
+	1. __自由に動きを作ってみよう！__  
+ 		__【自由課題】__[自由に動きを作ってみよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_20.sb3)  
+		スタートから初めて、スタートに戻ってくるコード（プログラム）を作ろう。使うことができるブロックは表示されているものです。各1つしかありませんが、ブロックをマウスの右ボタンで選択すると「複製」（コピー）ができます。自由に複製（コピー）して使ってください。  
+	   	数字やお宝のアイテムはマップにありません。動きの命令（一つ前に進む、右に90度回転、左に90度回転と繰り返し命令だけを使ってうごかしましょう。
 
 1. __逐次処理を極めよ！__	
 	1. ひたすらまっすぐ進め	

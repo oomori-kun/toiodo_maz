@@ -138,6 +138,14 @@
     		[お宝の上を全て通って進もう2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_7.sb3)  
 		スタートから初めて、すべてのお宝の上を通ってからゴールに行こう  
 
+	1. __ブロックを避けてお宝を通りながらゴールに行こう__  
+    		[お宝の上を全て通って進もう2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_8.sb3)  
+		スタートから初めて、ブロックを避けてながら，すべてのお宝の上を通ってからゴールに行こう  
+
+	1. __間違い探し：ブロックを避けてゴールしよう__  
+    		__【デバッグ】__[お宝の上を全て通って進もう2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_9.sb3)  
+		スタートから初めて、ブロックを避けてながらゴールにたどり着けるようにプログラムを修正しよう  
+
 	1.   
 	1.  		
 	1.  		

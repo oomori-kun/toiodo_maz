@@ -165,6 +165,14 @@
 	1. __間違い探し：ゴールに向かって進もう__  
  		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_2.sb3)  
 
+	1. __迷路をゴールしよう__  
+    		[迷路をゴールしよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_3.sb3)  
+		同じ処理が繰り返されている場所を見つけて __繰り返し処理__ の命令を使ってプログラミングしよう  
+
+	1. __8の字を描くように進もう__  
+    		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_4.sb3)  
+		スタートから初めて、8の字を描いてスタートに戻ってこよう。  ここでも同じ処理が繰り返されている場所を見つけて __繰り返し処理__ の命令を使ってプログラミングしよう  
+
 	1. a
 	1. b  
 	1. c 

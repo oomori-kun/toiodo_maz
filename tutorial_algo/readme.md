@@ -223,7 +223,11 @@
 		[壁（ブロック）を右が側にみながらゴールへ](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_4.sb3)  
 		__周辺状況（前後左右）の４番目__ というブロックはtoioの進行方向右側に何があるか（ブロック，お宝，数など）がわかる命令です  
 
-	1. b  
+	1. __コの字の経路に沿って進もう__  
+	  	[コの字に進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_1_4.sb3)  
+		__周辺状況（前後左右）の４番目__ というブロックはtoioの進行方向右側に何があるか（ブロック，お宝，数，空など）がわかる命令です  
+		回数を指定した繰り返しを使わないで，どのような場面でtoioをどのように動かせばよいかを考えよう  
+
 	1. c 
 	1. d 		
 	1. e 		
@@ -231,7 +235,8 @@
 	
 	1. __これはどんな動きをするかな？__  
  		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_10.sb3)  
-		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  	
+		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  
+
 
 ---
 ## ステージ2 【抽象データ処理レベル】

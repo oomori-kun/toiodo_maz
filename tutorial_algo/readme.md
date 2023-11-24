@@ -170,8 +170,12 @@
 		同じ処理が繰り返されている場所を見つけて __繰り返し処理__ の命令を使ってプログラミングしよう  
 
 	1. __8の字を描くように進もう__  
-    		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_4.sb3)  
+    		[8文字を描こう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_4.sb3)  
 		スタートから初めて、8の字を描いてスタートに戻ってこよう。  ここでも同じ処理が繰り返されている場所を見つけて __繰り返し処理__ の命令を使ってプログラミングしよう  
+
+	1. __これはどんな動きをするかな？__  
+    		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_5.sb3)  
+		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  
 
 	1. a
 	1. b  

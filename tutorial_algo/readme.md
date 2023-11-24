@@ -228,8 +228,10 @@
 	1. d 		
 	1. e 		
 	1. f 		
-	1. g 	
-	1. h 		
+	
+	1. __これはどんな動きをするかな？__  
+ 		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_10.sb3)  
+		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  	
 
 ---
 ## ステージ2 【抽象データ処理レベル】

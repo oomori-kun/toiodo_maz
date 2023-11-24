@@ -212,7 +212,7 @@
 
 	1. __目の前の壁を避けてゴールへ__  
 		 [目の前の壁を避けてゴールへ](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_2.sb3)  
-		__条件分岐処理__ と __繰り返し処理__　の命令を使って，目の前に壁（ブロック）があった場合，下に一マス進むようにプログラミングしよう  
+		__条件分岐処理__ と __繰り返し処理__ 　の命令を使って，目の前に壁（ブロック）があった場合，下に一マス進むようにプログラミングしよう  
 
 	1. b  
 	1. c 

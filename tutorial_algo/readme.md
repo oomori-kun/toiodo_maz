@@ -146,12 +146,10 @@
     		__【デバッグ】__[お宝の上を全て通って進もう2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_9.sb3)  
 		スタートから初めて、ブロックを避けてながらゴールにたどり着けるようにプログラムを修正しよう  
 
-	1.   
-	1.  		
-	1.  		
-	1.  		
-	1.  	
-	1.  	
+	1. __これはどんな動きをするかな？__  
+ 		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_2_10.sb3)  
+		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？
+
 
 1. __繰り返しを極めよう！__	
 	1. a

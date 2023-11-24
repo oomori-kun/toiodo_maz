@@ -185,14 +185,12 @@
     		[お宝の上を全て通って進もう2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_7.sb3)  
 		__繰り返し処理__ の命令を使って，スタートからすべてのお宝の上を通ってからゴールに行こう  
 
+	1. __ブロックを避けて数字を順番に通りながらゴールに行こう__  
+    		[数字を順番に通って進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_8.sb3)  
+		スタートから初めて、ブロックを避けてながら，数字の上を順番に通ってからゴールに行こう  
+
 	1. a
 	1. b  
-	1. c 
-	1. d 		
-	1. e 		
-	1. f 		
-	1. g 	
-	1. h 	
 
 1. __条件分岐を極めよう！__	
 	1. a

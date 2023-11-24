@@ -177,6 +177,10 @@
     		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_5.sb3)  
 		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  
 
+	1. __お宝の上を全て通ってゴールに行こう その1__  
+    		[お宝の上を全て通って進もう1](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_6.sb3)  
+		__繰り返し処理__ の命令を使って，スタートからすべてのお宝の上を通ってからゴールに行こう  
+
 	1. a
 	1. b  
 	1. c 

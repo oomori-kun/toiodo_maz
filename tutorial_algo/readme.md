@@ -189,6 +189,10 @@
     		[数字を順番に通って進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_8.sb3)  
 		スタートから初めて、ブロックを避けてながら，数字の上を順番に通ってからゴールに行こう  
 
+	1. __これはどんな動きをするかな？__  
+ 		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_9.sb3)  
+		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  
+
 	1. a
 	1. b  
 

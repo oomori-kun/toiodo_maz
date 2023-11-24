@@ -157,7 +157,14 @@
    	以降、特に指示がない限り，ここに表示されているブロックを __「複製」__ して使ってください。  
    	__「複製」__ は命令ブロックの上でマウスの右ボタンを押してください。メニューが表示され、その中に「複製」があります。
    		<img width="500"  alt="コードエリア" src="https://github.com/oomori-kun/toiodo_maz/assets/17058514/db383da4-6a52-4967-8917-90653158678c" >  
-   
+
+	1. __ひたすらまっすぐ進め__  
+		 [ひたすらまっすぐゴールまで進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_1.sb3)  
+		__繰り返し処理__ の命令を使ってプログラミングしよう  
+
+	1. __間違い探し：ゴールに向かって進もう__  
+ 		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_3_2.sb3)  
+
 	1. a
 	1. b  
 	1. c 

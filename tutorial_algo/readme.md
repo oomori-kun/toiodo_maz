@@ -241,7 +241,10 @@
 	  	[真下の数字が１の時にビープ音をならそう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_8.sb3)  
 		すでにマップの一番外を回ってゴールするプログラムがあります。このプログラムにtoioの真下にある数字が[1]の場合はビープ音をならすコードを追加しましょう  
 
-	1. f 		
+	1. __８の字を永遠に回る__  
+	  	[８の字を永遠に回る](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_8.sb3)  
+		すでに，toioの正面にあるマスが __ブロック__ あるいは __外__ でければ一マス進むコードを記述している。これに，toioの正面にあるマスが __ブロック__ あるいは __外__ である場合の行動（右に行くか，左に行くか）を決定するコードを追加しよう。
+		どのような条件になったら，どちらに回転する必要があるかマップを良く観察してプログラムを考えよう  	
 	
 	1. __これはどんな動きをするかな？__  
  		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_10.sb3)  

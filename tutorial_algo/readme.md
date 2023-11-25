@@ -228,7 +228,10 @@
 		__周辺状況（前後左右）の４番目__ というブロックはtoioの進行方向右側に何があるか（ブロック，お宝，数，空など）がわかる命令です  
 		回数を指定した繰り返しを使わないで，どのような場面でtoioをどのように動かせばよいかを考えよう  
 
-	1. c 
+	1. __真下の数字によって行動を決めよう__  
+	  	[コの字に進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_6.sb3)  
+		toioの真下にある数字が[1]の場合は右に90度回転して一マス進んで，それ以外はそのまま一マス進むことでゴールを目指そう 
+		回数を指定した繰り返しを使わないで，どのような場面でtoioをどのように動かせばよいかを考えよう  
 	1. d 		
 	1. e 		
 	1. f 		

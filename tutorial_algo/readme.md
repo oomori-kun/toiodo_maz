@@ -229,15 +229,17 @@
 		回数を指定した繰り返しを使わないで，どのような場面でtoioをどのように動かせばよいかを考えよう  
 
 	1. __真下の数字によって行動を決めよう__  
-	  	[コの字に進もう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_6.sb3)  
+	  	[真下の数字によって行動を決めよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_6.sb3)  
 		toioの真下にある数字が[1]の場合は右に90度回転して一マス進んで，それ以外はそのまま一マス進むことでゴールを目指そう 
 		回数を指定した繰り返しを使わないで，どのような場面でtoioをどのように動かせばよいかを考えよう  
 	
 	1. __間違い探し：ゴールに向かって進もう__  
  		__【デバッグ】__[ゴールできるように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_7.sb3)  
 		間違いは２カ所あります。間違いを修正して正しくゴールするようにしてください
- 
-	1. e  
+
+	1. __真下の数字が１の時にビープ音をならそう__  
+	  	[真下の数字が１の時にビープ音をならそう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_8.sb3)  
+		すでにマップの一番外を回ってゴールするプログラムがあります。このプログラムにtoioの真下にある数字が[1]の場合はビープ音をならすコードを追加しましょう  
 
 	1. f 		
 	

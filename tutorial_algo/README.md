@@ -240,7 +240,7 @@
 		間違いは２カ所あります。間違いを修正して正しくゴールするようにしてください
 
 	1. __真下の数字が１の時にビープ音をならそう__  
-	  	[真下の数字が１の時にビープ音をならそう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_8.sb3)  
+	  	__【機能を追加】__[真下の数字が１の時にビープ音をならそう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_8.sb3)  
 		すでにマップの一番外を回ってゴールするプログラムがあります。このプログラムにtoioの真下にある数字が[1]の場合はビープ音をならすコードを追加しましょう  
 
 	1. __８の字を永遠に回る__  

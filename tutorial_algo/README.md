@@ -252,6 +252,11 @@
  		__【コードを読み解く】__[どのような動作をするかな](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_10.sb3)  
 		まずはコードを読んで動きを想像してみよう。どのように動くかメンターの人に話して動かしてみよう。想像通りに動いたかな？  
 
+1. __基本操作要素技法レベル　総合課題__  
+	1. __迷路を解くプログラムを作ろう__  
+ 		__【総合課題】__[迷路を解くプログラムを作ろう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_4_11.sb3)  
+		迷路をとくプログラムを考えよう  
+		基本的な考え方は、常に左側が壁（ブロック）になるように進もう　　
 
 ---
 ## ステージ2 【抽象データ処理レベル】

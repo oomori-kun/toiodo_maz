@@ -34,7 +34,7 @@
   * [Mac]　Commandキーを押しながらリンクをクリックする
 * マウスに左右のボタンがない場合に、右クリックで（複製、貼り付けなどを行う）サブメニューを開く場合
   * [Macの場合]　Controlキーを押しながらマウスボタンをクリック
-* ステージ１のガイドブック・テキストは　[ここ]（https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/guidebook/guideBook_Stage1.pdf） からダウンロードしてください
+* ステージ１の[ガイドブック・テキスト](https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/guidebook/guideBook_Stage1.pdf)は、この左のリンクからダウンロードしてください
 
 1. __逐次，繰り返し，条件分岐の基本__
 	1. __一つ前に進もう__  

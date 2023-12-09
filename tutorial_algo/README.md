@@ -278,11 +278,14 @@
 		toioの右側の数値は __周辺状況（上下左右）の６番目__ の命令（変数）ブロック，　左側の数値は __周辺状況（上下左右）の4番目__ の命令（変数）ブロックで確認できます。  
 
 	1. __2つの値を比較して小さい方はどっち　その2__  
- 		[2つの値を比較して小さい方はどっち　その１](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_2.sb3)  
+ 		[2つの値を比較して小さい方はどっち　その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_2.sb3)  
 		toioの右側の数値と左側の数値を比較して小さい方の数値をしゃべろう  
 		toioの右側の数値は __周辺状況（上下左右）の６番目__ の命令（変数）ブロック，　左側の数値は __周辺状況（上下左右）の4番目__ の命令（変数）ブロックで確認できます。
 		
-	1. 2つの値を比較して小さい方はどっち　その3	
+	1. 2つの値を比較して小さい方はどっち　その3  
+		[2つの値を比較して小さい方はどっち　その3](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_3.sb3)  
+		マップのインデックス1番と5番の数値を比べて、1番の数値が小さき場合はLEDを赤く5秒光らせよう、5番目の数値が小さい場合はLEDを青く5秒光らせよう  
+
 	1. 2つの値を比較して大きい方はどっち　その1	
 	1. 2つの値を比較して大きい方はどっち　その2	
 	1. 2つの値を比較して大きい方はどっち　その3	

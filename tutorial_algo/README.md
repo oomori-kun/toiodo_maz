@@ -312,10 +312,10 @@
 		[2つの値を比較して大きい方はどっち　その4](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_8.sb3)  
 		マップのアドレス1番と5番の数値を比べて、大きい方の数をマップのアドレス3に入れよう  
 
-	1. 2つの値を比較して大きい方はどっち　その1	
-	1. 2つの値を比較して大きい方はどっち　その2	
-	1. 2つの値を比較して大きい方はどっち　その3	
-	1. 間違い探し：2つの値を比較して大きい方を選べるようにしよう	【デバッグ】
+	1. __間違い探し：2つの値を比較して大きい方を選べるようにしよう__  
+    		__【デバッグ】__[2つの値を比較して大きい方を選ぶように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_9.sb3)  
+		マップのアドレス1番と5番の数値を比べて、大きい方の数をマップのアドレス3に入れようにプログラムを修正しましょう  
+
 	1. 経路上の最大値を探そう　その1	
 	1. 経路上の最大値を探そう　その2	
 	1. 経路上の最小値を探そう その1

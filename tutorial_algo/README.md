@@ -316,10 +316,14 @@
     		__【デバッグ】__[2つの値を比較して大きい方を選ぶように修正しよう](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_9.sb3)  
 		マップのアドレス1番と5番の数値を比べて、大きい方の数をマップのアドレス3に入れようにプログラムを修正しましょう  
 
-	1. 経路上の最大値を探そう　その1	
-	1. 経路上の最大値を探そう　その2	
-	1. 経路上の最小値を探そう その1
-	1. 経路上の最小値を探そう その2	
+	1. __経路上の最小値を探そう　その1__  
+				[経路上の最小値を探そう　その4](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_10.sb3)  
+		スタート位置から右に移動して、経路上の最小値を探そう
+		ヒント：最初の数字を仮の最小値とします。その後、経路上の数値がなくなるまで次を繰り返します。toioを移動して数値を読み、仮の最小値と比較して、いま読んだ数字が小さければ、それを仮の最小値とします。
+
+	1. 経路上の最小値を探そう　その2	
+	1. 経路上の最大値を探そう その1  
+	1. 経路上の最大値を探そう その2	
 	1. 間違い探し：経路上の最大値を選べるようにしよう	【デバッグ】
 
  2. 合計値をもとめる

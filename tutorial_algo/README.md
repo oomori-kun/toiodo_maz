@@ -317,11 +317,15 @@
 		マップのアドレス1番と5番の数値を比べて、大きい方の数をマップのアドレス3に入れようにプログラムを修正しましょう  
 
 	1. __経路上の最小値を探そう　その1__  
-				[経路上の最小値を探そう　その4](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_10.sb3)  
+		[経路上の最小値を探そう　その1](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_10.sb3)  
 		スタート位置から右に移動して、経路上の最小値を探そう
 		ヒント：最初の数字を仮の最小値とします。その後、経路上の数値がなくなるまで次を繰り返します。toioを移動して数値を読み、仮の最小値と比較して、いま読んだ数字が小さければ、それを仮の最小値とします。
 
-	1. 経路上の最小値を探そう　その2	
+	1. __経路上の最小値を探そう　その2__  
+		[経路上の最小値を探そう　その2](https://toio.github.io/toio-visual-programming/beta/?project=https://github.com/oomori-kun/toiodo_maz/blob/main/tutorial_algo/sb3/toiodo_maz_S2_1_1_11.sb3)  
+		スタート位置から右に移動して、アドレス番号0から6の7つの数字の中にある最小値を探そう
+		ヒント：  アドレス番号0から6の7つの数字を順番に、仮の最小値と繰り返し比較して、比較したアドレスの値とくらべて仮の最小値の方が大きければ、アドレスの値を仮の最小値とする。すべての数字と比較した時の仮の最小値を、最終的に最小値とする。
+
 	1. 経路上の最大値を探そう その1  
 	1. 経路上の最大値を探そう その2	
 	1. 間違い探し：経路上の最大値を選べるようにしよう	【デバッグ】
